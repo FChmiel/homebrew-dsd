@@ -2,8 +2,8 @@
 # filling in `version` and `sha256`, when a release is published.
 # Install:   brew install --cask fchmiel/dsd/dsd
 cask "dsd" do
-  version "0.1.0"
-  sha256 "5b9d6109ea291b0dff6776f90f1d6e3f89b6bb192dfcaa9ebf89dd1392a59844"
+  version "0.1.1"
+  sha256 "5774132413cd5b47b0bfaab1f37f0ed940ef0eaa87678c5980cd54a5f267e1c5"
 
   url "https://github.com/FChmiel/dsd/releases/download/v#{version}/dsd_#{version}_aarch64.dmg"
   name "dsd"
